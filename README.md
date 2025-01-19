@@ -11,3 +11,5 @@ ERC721に基づいたNFTプロジェクトのデモです。2022年3月に制作
 # NFTコレクションの開発・ローンチのワークフロー
 # Workflow for the Creation and Launch of NFT Collections
 
+![Image](assets/ProcessOfCreateNFTCollections.png "ProcessOfCreateNFTCollections")
+
