@@ -6,3 +6,8 @@ ERC721に基づいたNFTプロジェクトのデモです。2022年3月に制作
 [Sakura Uncle NFT Collections](https://www.youtube.com/watch?v=rE4-S_CSW9Q)
 
 [![Watch Video](assets/SakuraUnclePage.png)](https://www.youtube.com/watch?v=rE4-S_CSW9Q)
+
+
+# NFTコレクションの開発・ローンチのワークフロー
+# Workflow for the Creation and Launch of NFT Collections
+
